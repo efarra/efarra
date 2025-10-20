@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @efarra
-- 👀 I’m interested in Software Enginering
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on projects to help me get a first internship
-- 📫 How to reach me efarra04@gmail.com
+# Ethan Farra
+**CS @ Kennesaw State (Cybersecurity)** • **25S SATCOM Operator (USAR)**  
+Building secure backend systems, SDR/RF tools, and practical data pipelines.
 
-<!---
-efarra/efarra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Current: SQL
+- 🛡️ Focus: Secure software, networking, RF, DevOps hygiene
+- 📦 Tech: Java, Python, SQL (SQL Server/MySQL), GNURadio, Docker, GitHub Actions
+- 🎯 Goal: Summer 2026 Software/Cyber/SDR internship
+
+k
+
+> Resume, portfolio site, and contact links below 👇
+
+[Portfolio](https://ethanfarra.github.io) • [LinkedIn](https://www.linkedin.com/in/ethan-farra-ab842b294/) • [Email](efarra04@gmail.com)
